@@ -1,1 +1,0 @@
-/* Tämä on placeholder. Täydellinen peli.js koodi oli jo sisällytetty index.html:ään suoraan. */
